@@ -1,0 +1,71 @@
+[
+    {
+        "country": "Việt Nam",
+        "anothername": "Tết Thiếu Nhi",
+        "activity": "Rước đền lồng, ăn bánh Trung Thu, dạo phố",
+        "image": "https://happybox.vn/wp-content/uploads/2022/07/tet_trung_thu.jpg"
+    },
+
+    {
+        "country": "Thái Lan",
+        "anothername": "Tết Cầu Trăng",
+        "activity": "Tham gia lễ Cúng Trăng, mặc những bộ trang phục truyền thống, ngồi lại cùng nhau để cầu nguyện những điều tốt đẹp",
+        "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2019/9/11/754137/Trung-Thu-5.jpg"
+    },
+
+    {
+        "country": "Myanmar",
+        "anothername": "Tiết Quang Minh",
+        "activity": "Thắp đèn lồng, nhảy múa, xem kịch và xem các thể loại văn nghệ",
+        "image": "https://banhtrungthugivral.net/wp-content/uploads/2020/09/trung-thu-o-cac-nuoc-chau-a-khac-viet-nam-nhu-the-nao-5.jpg"
+    },
+
+    {
+        "country": "Trung Quốc",
+        "anothername": "Tết Đoàn Viên",
+        "activity": "Treo đèn lồng trước cửa nhà, dùng các loại ngũ cốc và hoa để làm ra bánh dùng để cúng Trời Đất, múa lân, thả đèn lồng xuống sông",
+        "image": "https://cdn.tgdd.vn/Files/2020/09/11/1289181/tet-trung-thu-o-viet-nam-va-trung-quoc-giong-va-khac-nhau-nhu-the-nao-202009111414351946.jpg"
+    },
+
+    {
+        "country": "Hàn Quốc",
+        "anothername": "Lễ hội mừng mùa bội thu và cảm tạ tổ tiên",
+        "activity": "Tiến hành các nghi lễ tưởng niệm tổ tiên, dâng cúng cơm gạo vừa thu hoạch, mặc hanbok, ăn bánh Trung Thu của Hàn (có tên là Songpyeon), vui chơi giải trí ",
+        "image": "https://vinalines.net/wp-content/uploads/2020/08/H.21.jpg"
+    },
+
+    {
+        "country": "Nhật Bản",
+        "anothername": "Lễ Thưởng Trăng",
+        "activity": "Ngắm trăng, viếng chùa, ăn các món ăn truyền thống như bánh Tsukimi Dango (bánh nếp nhỏ và tròn tượng trưng cho ánh trăng giữa trời thu) hay thậm chí còn ăn các loại mì, khoai lang, hạt dẻ",
+        "image": "https://hampervietnam.vn/wp-content/uploads/2021/06/tet-trung-thu-nhat-ban-1.jpeg"
+    },
+
+    {
+        "country": "Campuchia",
+        "anothername": "Lễ bái nguyệt tiết",
+        "activity": "Cúng trăng bằng các lễ vật(hoa tươi, súp sắn, nước mía), Tối ngồi chờ trăng lên, bái trăng, cầu nguyện với trăng, lấy gạo dẹt nhét vào miệng trẻ em để cầu chúc cho nhiều điều tốt đẹp, viên mãn, no đủ.",
+        "image": "https://i.ex-cdn.com/vntravellive.com/files/news/2020/10/01/tet-trung-thu-o-cac-nuoc-dien-ra-the-nao-145721.jpg"
+    },
+
+    {
+        "country": "Singapore",
+        "anothername": "Lễ hội bánh trung thu hoặc lễ hội lồng đèn",
+        "activity": "Do phần lớn đều là người có gốc Hoa, nên các hoạt động ở nơi đây cũng na ná với Trung Quốc. Ở đây người ta ăn mừng Trung Thu bằng cách múa hát, ngắm trăng phá cỗ, giăng đèn lồng khắp phố phường, tặng quà cho người thân bạn bè gia đình, làm và ăn các loại bánh Trung Thu",
+        "image": "https://image.nhandan.vn/w2000/Uploaded/2023/dwxyucjhedwjhkdw/2022_09_10/lantern-45-1920x1080pxx-478.jpg"
+    },
+
+    {
+        "country": "Malaysia",
+        "anothername": "Tết Trung Thu",
+        "activity": "Thắp đèn lồng, thưởng thức nhiều loại bánh Trung Thu sáng tạo(bánh dạng hình sò biển, bông hoa, ngôi sao nhiều màu, bánh trung thu vỏ lạnh,...)",
+        "image": "https://wiki-travel.com.vn/Uploads/picture/camnhi-212221012235-trung-thu-malaysia.jpg"
+    },
+
+    {
+        "country": "Phillipines",
+        "anothername": "Tết Trung Thu",
+        "activity": "Mặc dù là một nước mà người dân hầu như đều theo đạo Thiên Chúa, Trung Thu vẫn được những người gốc Hoa ở đây tổ chức thường xuyên. Mọi người làm bánh và tặng bánh cho nhau. Loại bánh này thường có tên là Hopia, chơi trò chơi xúc xắc,... ",
+        "image": "https://cdn.tgdd.vn/2020/08/CookProduct/1200bttplp-1200x676.jpg"
+    }
+]

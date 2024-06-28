@@ -1,0 +1,26 @@
+.flex-nav{
+    list-style-type:none;
+    display: flex;
+    border: 1px solid black;
+    justify-content:flex-start;
+    padding:0;
+    column-gap: 5px;
+    background-color:goldenrod;
+}
+
+.flex-nav li {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color:goldenrod;
+    font-family: 'Inconsolata', monospace;
+    font-weight:normal;
+}
+
+.flex-nav li:hover{
+    background-color:coral;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+}

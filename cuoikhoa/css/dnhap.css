@@ -1,0 +1,27 @@
+.signup_area {
+    width: 300px !important;
+}
+
+#main-wrapper {
+    width: 98%;
+}
+
+#navbar {
+    background-color: transparent;
+    display: flex;
+    width: 98%;
+}
+
+#navcontainer {
+    width: 45%;
+    display: flex;
+    justify-content: end;
+}
+
+#About:hover {
+    background-color: rgb(110, 106, 103);
+}
+
+#Introducing:hover {
+    background-color: rgb(147, 141, 137);
+}

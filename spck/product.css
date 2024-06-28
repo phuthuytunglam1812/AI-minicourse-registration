@@ -1,0 +1,48 @@
+.books{
+    width:300px;
+    height:200px;
+
+}
+
+.flex-nav{
+    list-style-type:none;
+    display: flex;
+    border: 1px solid black;
+    justify-content:flex-start;
+    padding:0;
+    column-gap: 5px;
+    background-color:goldenrod;
+}
+
+.flex-nav li {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color:goldenrod;
+    font-family: 'Inconsolata', monospace;
+    font-weight:normal;
+}
+
+.flex-nav li:hover{
+    background-color:coral;
+}
+
+.container{
+    display:flex;
+    justify-content:space-between;
+}
+
+.button{
+    text-align:center;
+    font-weight:lighter;
+    background-color:rgb(255, 255, 255);
+    width:300px;
+    cursor:pointer;
+    font-family: 'Josefin Sans', sans-serif;
+    border-radius:7px;
+    background-color:yellow;
+    color:rgb(19, 98, 98);
+}
+
+.button:hover{
+    background-color:rgb(199, 205, 210)
+}

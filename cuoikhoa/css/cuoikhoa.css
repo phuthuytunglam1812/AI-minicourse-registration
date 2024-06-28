@@ -1,0 +1,123 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background-color: darkorange;
+}
+
+#main-wrapper {
+    width: 90%;
+}
+
+#sidebar-container {
+    width: 10%;
+    background-color: rgb(43, 175, 171);
+}
+
+#sidebar {
+    border-color: black;
+}
+
+#sidebar-img {
+    width: 100%;
+    position: relative;
+    animation-name: slide;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slide {
+    0% {
+        top: 0px;
+        left: 0px;
+    }
+    50% {
+        top: 80px;
+        left: 0px;
+    }
+    100% {
+        top: 0px;
+        left: 0px;
+    }
+}
+
+#navbar {
+    background-color: transparent;
+    display: flex;
+    width: 98%;
+}
+
+#navcontainer {
+    width: 45%;
+    display: flex;
+    justify-content: end;
+}
+
+#About:hover {
+    background-color: rgb(134, 66, 17);
+}
+
+#Introducing:hover {
+    background-color: rgb(134, 66, 17);
+}
+
+#title {
+    font-size: 60px;
+    font-family: "Kaushan Script", cursive;
+    /* overflow-x: hidden; */
+    color: rgb(207, 51, 51);
+    position: relative;
+    animation-name: run;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes run {
+    0% {
+        color: rgb(207, 51, 51);
+        top: 500px;
+        left: 70px;
+    }
+    25% {
+        color: rgb(34, 109, 180);
+        top: 550px;
+        left: 70px;
+    }
+    50% {
+        color: rgb(30, 154, 26);
+        top: 550px;
+        left: 70px;
+    }
+    100% {
+        color: rgb(207, 51, 51);
+        top: 500px;
+        left: 70px;
+    }
+}
+
+.hình {
+    width: 100%;
+    height: 700px;
+    margin: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#container2 {
+    width: 50%;
+    margin: 30px;
+}
+
+#footer {
+    background-color: coral;
+    border-color: black;
+}
+
+#icon-container2 {
+    width: 50%;
+    margin: 50px;
+}
+
+.p1 {
+    font-weight: 900;
+}
