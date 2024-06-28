@@ -1,0 +1,1 @@
+cái spck.html là file chính của KidDay, còn cái cuoikhoa.html là file chính của Festivautumn nha thầy, với lại thầy mở dùm con cả cái đống cuoikhoa trong vscode nhen tại vì con fetch API bên JS nên phải mở vscode nó mới liên kết rồi mới hiện ra hết nội dung được. Con cảm ơn thầy
